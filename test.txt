@@ -4,3 +4,4 @@
 4 test
 5 branch1 modifyed 1
 6 branch1 modified
+7 branch2 modifed 1
